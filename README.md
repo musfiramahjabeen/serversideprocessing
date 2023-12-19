@@ -9,7 +9,7 @@ To design a website to perform mathematical calculations in server side.
     - Fork the repository (https://github/gowriganeshns/serversideprocessing)
     - Clone the repository
       ```
-      git clone https://github.com/Nijeesh-bit/serversideprocessing
+      git clone https://github.com/musfiramahjabeen-bit/serversideprocessing
       ```
     - After cloning the folder with the repository name django-orm-app will be created
 
