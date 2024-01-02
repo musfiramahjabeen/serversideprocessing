@@ -12,7 +12,6 @@ To design a website to perform mathematical calculations in server side.
       git clone https://github.com/musfiramahjabeen-bit/serversideprocessing
       ```
     - After cloning the folder with the repository name django-orm-app will be created
-
 2. **Inside serverside processing:**
 
       - Write the following commands
