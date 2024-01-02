@@ -235,7 +235,9 @@ def prismarea(request):
     return render(request,'myapp/math.html',context)
 
 ```
+
 ## OUTPUT:
+
 #### Home Page
 ![Clientside_output](https://github.com/Nijeesh-bit/serversideprocessing/assets/89188014/7de7decc-0a78-479f-bf71-979242f2e6aa)
 
