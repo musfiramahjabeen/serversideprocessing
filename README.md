@@ -13,7 +13,6 @@ To design a website to perform mathematical calculations in server side.
       ```
     - After cloning the folder with the repository name django-orm-app will be created
 
-   
 2. **Inside serverside processing:**
 
       - Write the following commands
@@ -236,15 +235,11 @@ def prismarea(request):
     return render(request,'myapp/math.html',context)
 
 ```
-
 ## OUTPUT:
 #### Home Page
 ![Clientside_output](https://github.com/Nijeesh-bit/serversideprocessing/assets/89188014/7de7decc-0a78-479f-bf71-979242f2e6aa)
 
 #### Server Side Image
 ![Serverside_output](https://github.com/Nijeesh-bit/serversideprocessing/assets/89188014/db103894-bf42-4c6a-9719-5fc3cdd7e039)
-
-
 ## Result:
-
 Successfully we have made an Area of Prism calculator through server-side processing.
